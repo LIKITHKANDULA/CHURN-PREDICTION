@@ -22,6 +22,6 @@ The system relies entirely on standard data science and machine learning librari
 * **Machine Learning:** `scikit-learn`
 * **Data Visualization:** `matplotlib`, `seaborn`
 
-To install the dependencies, execute:
+To install the dependencies, execute
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
